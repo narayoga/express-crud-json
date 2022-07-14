@@ -1,0 +1,32 @@
+[
+  {
+    "username": "davon",
+    "email": "davon@mail.com",
+    "score": 8
+  },
+  {
+    "username": "dagingEmpuk",
+    "email": "player@mail.com",
+    "score": 10
+  },
+  {
+    "username": "andy",
+    "email": "asdf@gmail.com",
+    "score": 5
+  },
+  {
+    "username": "asu",
+    "email": "asa@su.com",
+    "score": "10"
+  },
+  {
+    "username": "ushio",
+    "email": "usi@kage.com",
+    "score": "2"
+  },
+  {
+    "username": "sial",
+    "email": "si@sial.com",
+    "score": "-2"
+  }
+]
